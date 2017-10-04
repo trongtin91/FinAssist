@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FinAssist_Example' do
+  pod 'FinAssist', :path => '../'
+
+  target 'FinAssist_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
