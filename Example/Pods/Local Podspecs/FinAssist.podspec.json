@@ -1,0 +1,22 @@
+{
+  "name": "FinAssist",
+  "version": "0.1.0",
+  "summary": "A short description of FinAssist.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/trongtin91/FinAssist",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "trongtin91": "trongtin1191@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/trongtin91/FinAssist.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FinAssist/Classes/**/*"
+}

@@ -7,7 +7,8 @@
 //
 
 import UIKit
+import RealmSwift
 
-class Person: NSObject {
-
+public class Person: Object {
+    open dynamic var name: String?
 }

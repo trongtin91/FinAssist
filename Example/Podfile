@@ -5,7 +5,7 @@ target 'FinAssist_Example' do
 
   target 'FinAssist_Tests' do
     inherit! :search_paths
-
+	pod 'RealmSwift'
     
   end
 end

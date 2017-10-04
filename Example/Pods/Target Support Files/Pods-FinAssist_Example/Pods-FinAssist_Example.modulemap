@@ -1,0 +1,6 @@
+framework module Pods_FinAssist_Example {
+  umbrella header "Pods-FinAssist_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

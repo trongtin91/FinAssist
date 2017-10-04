@@ -1,0 +1,6 @@
+framework module FinAssist {
+  umbrella header "FinAssist-umbrella.h"
+
+  export *
+  module * { export * }
+}
